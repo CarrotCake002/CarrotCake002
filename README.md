@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # <h1 align="center">Hi there 👋, I'm Pol</h1>
-# <h3 align="center">Passionate Video Game Developer</h3>
+# <h3 align="center">Passionate Software Engineer</h3>
 <br/>
 <div align="center" dir="auto" id="badges">
   <a href="https://www.linkedin.com/in/pol-siles-i-polo-789230194/">
