@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <h1 align="center">Hi there 👋, I'm Pol</h1>
-# <h3 align="center">Passionate Software Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Pol</h1>
+<h3 align="center">Passionate Software Engineer</h3>
 <br/>
 <div align="center" dir="auto" id="badges">
   <a href="https://www.linkedin.com/in/pol-siles-i-polo-789230194/">
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarrotCake002&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CarrotCake002&show_icons=true&theme=radical&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrotCake002&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrotCake002&layout=compact&theme=radical&cache_seconds=86400" />
     </a>
 </p>
 
