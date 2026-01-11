@@ -16,29 +16,30 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Pol</h1>
 <h3 align="center">Passionate Software Engineer</h3>
-<br/>
-<div align="center" dir="auto" id="badges">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/pol-siles-i-polo-789230194/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pol.siles-polo@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarrotCake002&show_icons=true&theme=radical&cache_seconds=86400" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarrotCake002&show_icons=true&theme=radical&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrotCake002&layout=compact&theme=radical&cache_seconds=86400" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrotCake002&layout=compact&theme=radical&cache_seconds=86400"/>
 </p>
 
-## Languages and tools
-  [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,unreal,godot,unity,cmake,bash,php,js,html,css,haskell,firebase)](https://skillicons.dev)
-  <br/>
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,docker,java,py,github,git,vscode,visualstudio,postman,linux,windows,grafana,prometheus,keycloak)](https://skillicons.dev)
+<h2 align="center">Languages and tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,dotnet,unreal,godot,unity,cmake,bash,php,js,html,css,haskell,firebase"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,docker,java,py,github,git,vscode,visualstudio,postman,linux,windows,grafana,prometheus,keycloak"/>
+</p>
