@@ -12,11 +12,18 @@
   </a>
 </div>
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarrotCake002&theme=radical&row=1&margin-w=8"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarrotCake002&theme=radical"/>
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarrotCake002&theme=radical"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarrotCake002&theme=radical"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarrotCake002&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarrotCake002&theme=radical&utcOffset=1"/>
 </p>
 <h2 align="center">Languages and tools</h2>
 <p align="center">
