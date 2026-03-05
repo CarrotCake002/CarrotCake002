@@ -16,7 +16,7 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarrotCake002&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-commit?username=CarrotCake002&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarrotCake002&theme=radical"/>
 </p>
 <h2 align="center">Languages and tools</h2>
 <p align="center">
