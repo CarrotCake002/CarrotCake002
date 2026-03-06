@@ -12,9 +12,6 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CarrotCake002&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=CarrotCake002&theme=radical"/>
 </p>
 <p align="center">
